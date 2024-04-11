@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [LiveObjects](https://github.com/DatavenueLiveObjects), and [Creharmony.fr](https://github.com/creharmony/) and some other repositories ([ex.](https://npmtrends.com/action-umami-report-vs-drobadi-vs-node-etsy-client-vs-node-hook-action-vs-node-mongotools-vs-susi-rali-vs-umami-api-client)).
-- 📫 To reach me, open an issue on target reprository, or else poke me on mastodon [@boly38@octodon.social](https://elk.zone/octodon.social/@Boly38)
+- 📫 To reach me, open an issue on target repository, or else poke me on mastodon [@boly38@octodon.social](https://elk.zone/octodon.social/@Boly38)
 - I'm trying to answer each request (NB: BUT I just completely missed some [tasks/answers todo in node-mongotools issues](https://github.com/boly38/node-mongotools/issues) starting from nov 2023, I will switch on them ASAP 🙏)
 - ⚡ Fun fact: do you know what Geocaching is ? if yes, then did you try [geokrety.org](https://github.com/geokrety) ?
 - 💬 Errors are part of development process, don't worry, ask, learn, retry !
