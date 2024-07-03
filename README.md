@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [LiveObjects](https://github.com/DatavenueLiveObjects), [Creharmony.fr](https://github.com/creharmony/), [@botEnSky](https://bsky.app/profile/botensky.bsky.social) and some other repositories ([ex.](https://npmtrends.com/drobadi-vs-dropbox-refresh-token-vs-node-etsy-client-vs-node-hook-action-vs-node-mongotools-vs-susi-rali-vs-umami-api-client)).
-- 📫 To reach me, open an issue on target repository, or else poke me on mastodon [@boly38@octodon.social](https://elk.zone/octodon.social/@Boly38) or via my email
+- 📫 To reach me, open an issue on target repository, or else poke me on BlueSky [@boly38.bsky.social]([https://elk.zone/octodon.social/@Boly38](https://bsky.app/profile/boly38.bsky.social)) or via my email
 - 🤖 If (and only if) you're not a bot, then you could pick one image of this page to find how to retrieve my email ^^
 - ⚡ Fun fact: do you know what Geocaching is ? if yes, then did you try [geokrety.org](https://github.com/geokrety) ?
 - 💬 Errors are part of development process, don't worry, ask, learn, retry !
