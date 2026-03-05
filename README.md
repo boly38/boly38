@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [chicken-bot](https://chickarmy.github.io/chickenbot-web/fr/blog/), [LiveObjects](https://github.com/DatavenueLiveObjects), [Creharmony.fr](https://github.com/creharmony/), [@botEnSky](https://bsky.app/profile/botensky.bsky.social) and some other repositories ([ex.](https://npmtrends.com/drobadi-vs-dropbox-refresh-token-vs-node-etsy-client-vs-node-hook-action-vs-node-mongotools-vs-susi-rali-vs-umami-api-client)).
+- 🔭 I’m currently working on [LiveObjects](https://github.com/DatavenueLiveObjects), [Creharmony.fr](https://github.com/creharmony/), [@botEnSky](https://bsky.app/profile/botensky.bsky.social),  [chicken-bot](https://chickarmy.github.io/chickenbot-web/fr/blog/), and some other repositories ([ex.](https://npmtrends.com/drobadi-vs-dropbox-refresh-token-vs-node-etsy-client-vs-node-hook-action-vs-node-mongotools-vs-susi-rali-vs-umami-api-client)).
 - 📫 To reach me, open an issue on target repository, or else poke me on BlueSky [@boly38.bsky.social](https://bsky.app/profile/boly38.bsky.social)
 - ⚡ Fun fact: do you know what Geocaching is ? if yes, then did you try [geokrety.org](https://github.com/geokrety) ?
 - 💬 Errors are part of development process, don't worry, ask, learn, retry !
+
+<!--
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=boly38&show_icons=true&theme=tokyonight"  width="55%"/>
@@ -11,9 +13,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boly38&layout=compact&show_icons=true&theme=react)](https://github.com/boly38/github-readme-stats&hide_border=true&show_icons=true&langs_count=10)
 
-
-
-<!--
 Other projects: , [volcano-activity](https://volcano.cyclic.app/)
 
 
